@@ -15,7 +15,7 @@ def main(request):
 def chat(request,community):
    return HttpResponse(community)
 def execute_main(request):
-    main_path = os.path.join(os.path.dirname(_file_), 'm123.py')
+    main_path = os.path.join(os.path.dirname(__file__), 'm123.py')
     subprocess.run(['python', main_path])
     return HttpResponse("executed")
 def submit_contact(request):
