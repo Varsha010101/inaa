@@ -17,7 +17,11 @@ From Yoga to Pilates, and everything in between, our workout guides provide deta
 Our comprehensive articles cover a range of nutrition topics, empowering our users to make informed decisions about their dietary habits.
 
 ## 🌐 Our Community 
-Join our vibrant community of women supporting each other through our dedicated INAA servers. Here, you can share experiences, ask questions, and find support from women worldwide.
+Join our vibrant community of women supporting each other through our dedicated INAA servers. Here, you can share experiences,
+ask questions, and find support from women worldwide.
+
+
+<img src="community.png" width="500">
 
 ## 📊 Community Stats
 - Active Users: 
@@ -31,3 +35,5 @@ We welcome contributions from everyone. If you're interested in improving INAA, 
 ## 📬 Contact Us
 For any questions or concerns, please open an issue on GitHub or reach out to us through our INAA community servers.
 **Join us at INAA, where we believe in empowering every woman to take control of her wellness journey.**
+
+
