@@ -36,4 +36,4 @@ We welcome contributions from everyone. If you're interested in improving INAA, 
 For any questions or concerns, please open an issue on GitHub or reach out to us through our INAA community servers.
 **Join us at INAA, where we believe in empowering every woman to take control of her wellness journey.**
 
-
+> Made with ❤️ by Team Zynets
