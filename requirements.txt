@@ -1,2 +1,2 @@
-Django>=5.0.4
-nicegui>=1.4.20
+Django==5.0.4
+nicegui==1.4.20
