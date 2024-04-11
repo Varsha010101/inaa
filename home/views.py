@@ -5,7 +5,12 @@ from django.utils import timezone
 import os
 from home.models import Contact
 def index(request):
+  
     return render (request,'index.html')
+def contact(request):
+    return render(request,"contact.html")
+def main(request):
+    return render(request,".main.py/")
 def chat(request,community):
    return HttpResponse(community)
 def execute_main(request):
