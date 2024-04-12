@@ -4,8 +4,9 @@ import subprocess
 from django.utils import timezone
 import os
 from home.models import Contact
+from django.contrib import messages
+
 def index(request):
-  
     return render (request,'index.html')
 def contact(request):
     return render(request,"contact.html")
@@ -31,4 +32,5 @@ def submit_contact(request):
             message=message,
             date=date
         )
+        messages.success(request, "Profile details updated.")
     return render(request, 'contact.html')
